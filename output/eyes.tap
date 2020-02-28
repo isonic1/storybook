@@ -1,0 +1,172 @@
+1..36
+not ok 1 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481614269?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 812x375
+#
+not ok 2 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481611764?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Edge, Viewport: 2000x1000
+#
+ok 3 - [PASSED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481612542?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+not ok 4 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481608595?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+not ok 5 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481613117?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 1000x600
+#
+not ok 6 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481613086?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 1000x600
+#
+not ok 7 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481613168?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 800x600
+#
+not ok 8 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481613560?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 2000x1000
+#
+not ok 9 - [FAILED TEST] Test: 'App: default', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481613706?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 375x812
+#
+not ok 10 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481618094?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 812x375
+#
+not ok 11 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481618101?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 2000x1000
+#
+not ok 12 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481618103?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 800x600
+#
+not ok 13 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481618082?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 1000x600
+#
+not ok 14 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481617836?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 1000x600
+#
+ok 15 - [PASSED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481615818?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+ok 16 - [PASSED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481615883?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+not ok 17 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481611699?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Edge, Viewport: 2000x1000
+#
+not ok 18 - [FAILED TEST] Test: 'Button: with some emoji', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481618109?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 375x812
+#
+not ok 19 - [FAILED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481619620?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 812x375
+#
+not ok 20 - [FAILED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481544260?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Edge, Viewport: 2000x1000
+#
+ok 21 - [PASSED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481614231?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+ok 22 - [PASSED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481615888?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+not ok 23 - [FAILED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481619166?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 1000x600
+#
+ok 24 - [PASSED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481619629?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 1000x600
+#
+not ok 25 - [FAILED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481618977?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 800x600
+#
+not ok 26 - [FAILED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481619632?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 2000x1000
+#
+not ok 27 - [FAILED TEST] Test: 'Button: with text', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481619631?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 375x812
+#
+ok 28 - [PASSED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481614254?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+not ok 29 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481616626?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 812x375
+#
+not ok 30 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481616623?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 375x812
+#
+not ok 31 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481616614?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 2000x1000
+#
+not ok 32 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481615355?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 800x600
+#
+not ok 33 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481615176?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Chrome, Viewport: 1000x600
+#
+not ok 34 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481614957?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Firefox, Viewport: 1000x600
+#
+ok 35 - [PASSED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481611136?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: IE, Viewport: 1000x600
+#
+not ok 36 - [FAILED TEST] Test: 'Welcome: to Storybook', Application: 'My Storybook2'
+#	Mismatches: 1
+#	Test url: https://eyes.applitools.com/app/test-results/00000251819481620374/00000251819481612541?accountId=6aMzO9JqKUmjcRkCqOUicg~~
+#	Browser: Edge, Viewport: 2000x1000
